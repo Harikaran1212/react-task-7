@@ -6,8 +6,8 @@ export default function Login() {
   const navigate = useNavigate();
 
   const adminCredentials = {
-    username: "admin",
-    password: "admin123",
+    username: "admin12",
+    password: "admin@12",
   };
 
   const [loginData, setLoginData] = useState({
